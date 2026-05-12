@@ -1,6 +1,6 @@
+print("hola")
 print("hola, bienvenidos al menu")
 print("escoja una de las opciones del menu")
-
 
 salir = 0
 
