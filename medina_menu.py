@@ -1,4 +1,5 @@
 print("hola")
+# programa principal de Menú de operciones, edades, salida, salir #
 print("hola, bienvenidos al menu")
 print("escoja una de las opciones del menu")
 
